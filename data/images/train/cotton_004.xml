@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>cotton_004.jpg</filename>
+	<path>C:\Users\dell\Desktop\Yash\SIH\Prototype\crop_detection\data\images\train\cotton_004.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>852</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cotton</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8</xmin>
+			<ymin>85</ymin>
+			<xmax>685</xmax>
+			<ymax>479</ymax>
+		</bndbox>
+	</object>
+</annotation>

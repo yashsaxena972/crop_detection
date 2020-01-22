@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>soyabean_019.jpg</filename>
+	<path>C:\Users\dell\Desktop\Yash\SIH\Prototype\crop_detection\data\images\test\soyabean_019.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>683</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>soyabean</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>205</ymin>
+			<xmax>1024</xmax>
+			<ymax>670</ymax>
+		</bndbox>
+	</object>
+</annotation>

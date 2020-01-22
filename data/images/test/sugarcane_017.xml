@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>sugarcane_017.jpg</filename>
+	<path>C:\Users\dell\Desktop\Yash\SIH\Prototype\crop_detection\data\images\test\sugarcane_017.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>470</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sugarcane</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>32</ymin>
+			<xmax>300</xmax>
+			<ymax>443</ymax>
+		</bndbox>
+	</object>
+</annotation>

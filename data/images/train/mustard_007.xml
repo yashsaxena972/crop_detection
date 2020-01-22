@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>mustard_007.jpg</filename>
+	<path>C:\Users\dell\Desktop\Yash\SIH\Prototype\crop_detection\data\images\train\mustard_007.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1728</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mustard</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>449</ymin>
+			<xmax>1728</xmax>
+			<ymax>1078</ymax>
+		</bndbox>
+	</object>
+</annotation>
