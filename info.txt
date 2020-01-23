@@ -1,0 +1,6 @@
+git remote add origin https://github.com/yashsaxena972/crop_detection.git
+git push -u origin master
+
+
+get tensorboard
+http://8d5ff0ca.ngrok.io

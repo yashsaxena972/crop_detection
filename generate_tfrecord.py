@@ -36,6 +36,11 @@ flags.DEFINE_string(
 # flags.DEFINE_string('label0', '', 'Name of class[0] label')
 # flags.DEFINE_string('label1', '', 'Name of class[1] label')
 # and so on.
+flags.DEFINE_string ("label0", "", "cotton")
+flags.DEFINE_string ("label1", "", "mustard")
+flags.DEFINE_string ("label2", "", "soyabean")
+flags.DEFINE_string ("label3", "", "sugarcane")
+flags.DEFINE_string ("label4", "", "wheat")
 flags.DEFINE_string("img_path", "", "Path to images")
 FLAGS = flags.FLAGS
 
